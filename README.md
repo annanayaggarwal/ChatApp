@@ -53,8 +53,6 @@ Start the Client
   
 # Features
 
-### Authenticaton
-!
 ## Made By
 
 - [@annanayaggarwal](https://github.com/annanayaggarwal)
